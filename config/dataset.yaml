@@ -1,0 +1,10 @@
+# train, val, test  data as：
+# directory: path/images/
+train: C:\Users\naomi\OneDrive\Documents\Python Scripts\visual transformers based stellar classification\stellar-classification-main\stellar_classification_dataset\train
+val: C:\Users\naomi\OneDrive\Documents\Python Scripts\visual transformers based stellar classification\stellar-classification-main\stellar_classification_dataset\val
+test: C:\Users\naomi\OneDrive\Documents\Python Scripts\visual transformers based stellar classification\stellar-classification-main\stellar_classification_dataset\test
+
+# number of classes
+nc: 7
+# class names
+names: [ 'O', 'B', 'A', 'F', 'G', 'K', 'M' ]
